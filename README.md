@@ -86,7 +86,7 @@ If you can make the advisory layer change the decision, we will publicly admit d
 🚀 Public testnet launching Q3 2026
 
 For early access (enterprise, researchers, regulators):
-📧 testnet@gravitnetwork.org | 🐦 @GravitNet on X
+📧 testnet@gravitnetwork.org | 🐦 [@gravitopnetwork](https://x.com/gravitopnetwork) on X
 
 ## Documentation
 
@@ -161,7 +161,7 @@ Apache 2.0 — free for commercial and research use.
 ## Contact
 
 - **GitHub:** [gravit-open-network-foundation](https://github.com/gravit-open-network-foundation)
-- **X (Twitter):** [@GravitNet](https://twitter.com/GravitNet)
+- **X:** [@gravitopnetwork](https://x.com/gravitopnetwork)
 - **LinkedIn:** [Gravit Open Network Foundation](https://linkedin.com)
 - **Substack:** [Dr. Alex Konviser](https://substack.com)
 - **Email:** info@gravitnetwork.org (general), testnet@gravitnetwork.org (testnet access)
